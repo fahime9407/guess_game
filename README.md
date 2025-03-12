@@ -1,2 +1,1 @@
-# guess_game
- guess the number
+I used random library to choose a number between 1 and 100.
